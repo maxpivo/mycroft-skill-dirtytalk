@@ -5,7 +5,7 @@ Dirty, Filthy, and Nasty talk. Dirty Jokes too!
 * "Talk Dirty" - Run of the mill dirty talk
 * "Filthy" - A little more X rated
 * "Nasty" - X Rated and intended to be offensive
-* "Dirty Joke" - Will tell you a one-liner
+* "Filthy Joke" - Will tell you a one-liner
 
 ## Credits 
 maxpivo # mycroft-skill-dirtytalk
